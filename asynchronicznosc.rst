@@ -39,6 +39,8 @@ Pętla zdarzeń
 - jeden proces
 - zarządca zadań
 
+#TODO  dodaj rysunek petli zdarzen
+
 Przykład z życia
 *****************
 
@@ -49,6 +51,7 @@ Synchroniczny poranek
 
 .. testoutput::
 
+   $ python3.6 przyklad_sync.py
    włącz czajknik
    zaparz hebatę
    wypij herbate
@@ -67,6 +70,7 @@ Asynchroniczny poranek
 
 .. testoutput::
 
+   $ python3.6 przyklad_async.py
    zrob kanapki
    włącz czajknik
    prysznic zajety
@@ -80,5 +84,6 @@ Asynchroniczny poranek
 
 :Linki:
     `asyncio-task <https://docs.python.org/3/library/asyncio-task.html>`_
+
     `PEP 3156 <https://www.python.org/dev/peps/pep-3156/>`_
 
