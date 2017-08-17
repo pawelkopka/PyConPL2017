@@ -45,7 +45,7 @@ Co z moją pamięcią?
    pamięć wirtualna svmem(total=16744116224, available=12605980672, percent=24.7, used=3568963584, free=11050737664, active=4058066944, inactive=1285193728, buffers=153546752, cached=1970868224, shared=348962816)
 
 
-Ile jak głodny jest lisek?
+Ile zjada lis?
 ----------------------------
 .. literalinclude:: przyklad_psutil.py
    :lines: 12-21

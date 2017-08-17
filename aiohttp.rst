@@ -69,6 +69,7 @@ Minus asyncio
 
 
 
-:Linki:     #TODO zmień linki
-    `aiohttp <https://docs.python.org/3/library/asyncio-task.html>`_
+:Linki:
+
+    `aiohttp <http://aiohttp.readthedocs.io/en/stable>`_
 

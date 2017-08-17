@@ -10,7 +10,7 @@ Asynchroniczność
 Korutyny
 *********
 
-- korutyny vs generatry
+- korutyny vs generatory
 
 - korutyna -> korutyna -> korytuna -> korytuna -> rutyna -> rutyna
 
@@ -39,7 +39,6 @@ Pętla zdarzeń
 - jeden proces
 - zarządca zadań
 
-#TODO  dodaj rysunek petli zdarzen
 
 Przykład z życia
 *****************
@@ -52,15 +51,15 @@ Synchroniczny poranek
 .. testoutput::
 
    $ python3.6 przyklad_sync.py
-   włącz czajknik
-   zaparz hebatę
-   wypij herbate
-   prysznic zajety
-   prysznic zajety
-   prysznic zajety
+   włącz czajnik
+   zaparz herbatę
+   wypij herbatę
+   prysznic zajęty
+   prysznic zajęty
+   prysznic zajęty
    weź prysznic
-   zrob kanapki
-   spkować do plecaka ['kanapki']
+   zr»b kanapki
+   spakować do plecaka ['kanapki']
    Czas : 9.009146451950073
 
 Asynchroniczny poranek
@@ -71,15 +70,15 @@ Asynchroniczny poranek
 .. testoutput::
 
    $ python3.6 przyklad_async.py
-   zrob kanapki
-   włącz czajknik
-   prysznic zajety
-   prysznic zajety
-   spkować do plecaka ['kanapki']
-   zaparz hebatę
-   prysznic zajety
+   zrób kanapki
+   włącz czajnik
+   prysznic zajęty
+   prysznic zajęty
+   spakować do plecaka ['kanapki']
+   zaparz herbatę
+   prysznic zajęty
    weź prysznic
-   wypij herbate
+   wypij herbatę
    Czas : 4.002426624298096
 
 

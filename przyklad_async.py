@@ -3,25 +3,25 @@ import time
 
 
 async def drugie_sniadanie():
-    print('zrob kanapki')
+    print('zrób kanapki')
     await asyncio.sleep(2)
     return 'kanapki'
 
 
 async def sniadanie():
-    print('włącz czajknik')
+    print('włącz czajnik')
     await asyncio.sleep(2)
-    print('zaparz hebatę')
+    print('zaparz herbatę')
     await asyncio.sleep(2)
-    print('wypij herbate')
+    print('wypij herbatę')
 
 
 async def prysznic():
-    print('prysznic zajety')
+    print('prysznic zajęty')
     await asyncio.sleep(1)
-    print('prysznic zajety')
+    print('prysznic zajęty')
     await asyncio.sleep(1)
-    print('prysznic zajety')
+    print('prysznic zajęty')
     await asyncio.sleep(1)
     print('weź prysznic')
 
@@ -29,7 +29,7 @@ async def prysznic():
 async def pakowanie(*args):
     plecak = []
     plecak.append(await drugie_sniadanie())
-    print('spkować do plecaka', plecak)
+    print('spakować do plecaka', plecak)
 
 
 def ubieranie():

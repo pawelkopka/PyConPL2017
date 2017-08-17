@@ -7,7 +7,7 @@ Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil 
    :alt: alternate text
    :align: right
 
-:Authors:
+:Autor:
     **Paweł Kopka**
 :Data:
     18.08.2017
@@ -21,9 +21,9 @@ Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil 
       pawelkopka22 MONKEY gmail DOT com
 
 :Cel:
-    - Pokazanie że budowanie z klocków jest łatwe
-    - Proste elementy mogą składa się na użyteczne rzeczy
-    - Promocja Asynchroniczności
+    - Pokazanie, że budowanie z klocków jest łatwe.
+    - Proste elementy mogą składać się na użyteczne rzeczy.
+    - Promocja asynchroniczności.
 
 .. note::
 
@@ -43,6 +43,7 @@ Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil 
    psutil
    bokeh
    prosty_monitoring
+   koniec
 
 
 

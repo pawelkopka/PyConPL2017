@@ -7,7 +7,7 @@ Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil 
    :alt: alternate text
    :align: right
 
-.. image:: mis.jpg
+.. image:: mis.png
    :width: 300px
    :height: 300px
    :scale: 100 %

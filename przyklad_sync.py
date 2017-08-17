@@ -2,25 +2,25 @@ import time
 
 
 def drugie_sniadanie():
-    print('zrob kanapki')
+    print('zrób kanapki')
     time.sleep(2)
     return 'kanapki'
 
 
 def sniadanie():
-    print('włącz czajknik')
+    print('włącz czajnik')
     time.sleep(2)
-    print('zaparz hebatę')
+    print('zaparz herbatę')
     time.sleep(2)
-    print('wypij herbate')
+    print('wypij herbatę')
 
 
 def prysznic():
-    print('prysznic zajety')
+    print('prysznic zajęty')
     time.sleep(1)
-    print('prysznic zajety')
+    print('prysznic zajęty')
     time.sleep(1)
-    print('prysznic zajety')
+    print('prysznic zajęty')
     time.sleep(1)
     print('weź prysznic')
 
@@ -28,7 +28,7 @@ def prysznic():
 def pakowanie(*args):
     plecak = []
     plecak.append(drugie_sniadanie())
-    print('spkować do plecaka', plecak)
+    print('spakować do plecaka', plecak)
 
 
 def ubieranie():
