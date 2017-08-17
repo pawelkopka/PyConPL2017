@@ -1,9 +1,9 @@
 Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil i bokeh
 =======================================================================================
 .. image:: pycon2017.png
-   :width: 400px
-   :height: 200px
-   :scale: 50 %
+   :width: 100px
+   :height: 100px
+   :scale: 100 %
    :alt: alternate text
    :align: right
 
@@ -18,22 +18,31 @@ Historia pewnego telewizora, czyli Prosty Monitoring z użyciem aiohttp, psutil 
    github
       https://github.com/pawelkopka
    e-mail
-      pawelkopka22@gmail.com
+      pawelkopka22 MONKEY gmail DOT com
 
+:Cel:
+    - Pokazanie że budowanie z klocków jest łatwe
+    - Proste elementy mogą składa się na użyteczne rzeczy
+    - Promocja Asynchroniczności
+
+.. note::
+
+   Absolwent Wydziału Fizyki UW specjalizacja Neuroinformatyka,
+   przelotny romans ze studiami doktoranckimi w Instytucje Geofizyki PAN.
+   Od dłuższego czasu związany z firmą Codilime.
+   Od dawna fan filmów Barei od niedawna asynchroniczności.
 
 .. toctree::
-   :maxdepth: 2
+   :glob:
+   :maxdepth: 100
    :caption: Spis Treści:
 
-   pyconpl2017
-   TV
-   asynchronicznosc
+   tv
+   async
    aiohttp
-   test
+   psutil
+   bokeh
+   prosty_monitoring
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+

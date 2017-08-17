@@ -1,2 +1,0 @@
-Krótka historia pewnego telewizora
-===================================

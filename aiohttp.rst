@@ -1,9 +1,9 @@
 Aiohttp
 =======================================================================================
 .. image:: pycon2017.png
-   :width: 400px
-   :height: 200px
-   :scale: 50 %
+   :width: 100px
+   :height: 100px
+   :scale: 100 %
    :alt: alternate text
    :align: right
 

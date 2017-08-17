@@ -1,9 +1,9 @@
 Asynchroniczność
 =======================================================================================
 .. image:: pycon2017.png
-   :width: 400px
-   :height: 200px
-   :scale: 50 %
+   :width: 100px
+   :height: 100px
+   :scale: 100 %
    :alt: alternate text
    :align: right
 
@@ -81,6 +81,8 @@ Asynchroniczny poranek
    weź prysznic
    wypij herbate
    Czas : 4.002426624298096
+
+
 
 :Linki:
     `asyncio-task <https://docs.python.org/3/library/asyncio-task.html>`_
